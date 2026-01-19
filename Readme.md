@@ -99,12 +99,7 @@ A custom dataset was collected from volunteers containing English and Hindi emer
 
 ### Confusion Matrix
 
-[[ 5 0 1 0 0 0]
-[ 0 8 0 0 0 0]
-[ 0 0 10 0 0 0]
-[ 1 0 1 5 0 0]
-[ 0 0 2 0 5 0]
-[ 0 1 2 0 1 2]]
+![confusion-matrix](confusion_matrix.png)
 
 ### Results Summary
 - High precision and recall for most classes
@@ -113,6 +108,7 @@ A custom dataset was collected from volunteers containing English and Hindi emer
 >I added the traing and validation accuracy and loss plots below for reference.
 ![training-validation accuracy](train-val_acc.png)
 ![training-validation loss](train-val_loss.png)
+
 ---
 
 ### Additional Testing
