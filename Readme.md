@@ -98,8 +98,9 @@ A custom dataset was collected from volunteers containing English and Hindi emer
 ---
 
 ### Confusion Matrix
+![conusion-matrix](cofusion_matrix.png)
 
-![confusion-matrix](confusion_matrix.png)
+---
 
 ### Results Summary
 - High precision and recall for most classes
